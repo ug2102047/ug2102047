@@ -12,7 +12,7 @@
 - 🔭 Currently working on: **Hardware Development**
 - 🌱 Learning: **Computer Networks**, **SMTP Protocol**, **Python Development**, **Hardware Development**
 - 💡 Interests: Network Programming, Hardware Designing 
-- 📚 Currently taking: Computer Networks Sessional (CCE-314)
+- 📚 Currently taking: 
 
 ## 🛠️ Technologies & Tools
 
