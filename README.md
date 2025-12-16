@@ -9,9 +9,9 @@
 ## 🎓 About Me
 
 - 🏫 Computer Science & Engineering Student | **ID: 2102047**
-- 🔭 Currently working on: **Email Systems & Network Programming**
-- 🌱 Learning: **Computer Networks**, **SMTP Protocol**, **Python Development**
-- 💡 Interests: Network Programming, Backend Development, Email Systems
+- 🔭 Currently working on: **Hardware Development**
+- 🌱 Learning: **Computer Networks**, **SMTP Protocol**, **Python Development**, **Hardware Development**
+- 💡 Interests: Network Programming, Hardware Designing 
 - 📚 Currently taking: Computer Networks Sessional (CCE-314)
 
 ## 🛠️ Technologies & Tools
@@ -27,7 +27,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### Libraries & Frameworks
 
