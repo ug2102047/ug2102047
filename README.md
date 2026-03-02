@@ -1,10 +1,6 @@
 # Hi there, I'm Puspita Baidya 👋
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Computer+Science+%26+Engineering+Student;Network+Programming+Enthusiast;Python+Developer;Always+Learning+New+Things)
-  
-</div>
+
 
 ## 🎓 About Me
 
