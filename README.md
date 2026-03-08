@@ -1,110 +1,171 @@
-# Hi there, I'm Puspita Baidya 👋
+<!--
+**ug2102047/ug2102047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-## 🎓 About Me
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=151&section=header&reversal=false&text=Puspita%20Baidya&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"/>
+</div>
 
-- 🏫 Computer Science & Engineering Student | **ID: 2102047**
-- 🔭 Currently working on: **Hardware Development**
-- 🌱 Learning: **Computer Networks**, **SMTP Protocol**, **Python Development**, **Hardware Development**
-- 💡 Interests: Network Programming, Hardware Designing 
-- 📚 Currently taking: 
+###
 
-## 🛠️ Technologies & Tools
+<div align="center">
+  <img width="1920" src="https://github.com/ug2102047/ug2102047/blob/main/coding.gif?raw=true"  />
+</div>
 
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### Libraries & Frameworks
-
-![Tkinter](https://img.shields.io/badge/-Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
-![Socket Programming](https://img.shields.io/badge/-Socket%20Programming-FF6F00?style=flat-square)
-
-## 📊 GitHub Stats
+###
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ug2102047&show_icons=true&theme=radical&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ug2102047&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ug2102047&theme=radical&hide_border=true)
-  
+## About Me
+
 </div>
 
-## 🚀 Featured Projects
+<p align="left">Hi, I'm Puspita Baidya, skilled in developing complete solutions from front-end interfaces to back-end systems, focusing on clean architecture, performance, and user experience. Proficient in HTML, CSS, JavaScript, TypeScript, React, Node.js, PHP Laravel, REST APIs, MySQL, GitHub, Python, and Machine Learning tools. Passionate about building reliable software solutions and continuously learning new technologies.<br><br>I am now expanding my expertise toward Machine Learning and Artificial Intelligence, combining software engineering skills with ML/AI development to build intelligent and data-driven applications.<br><br>🌍 I'm based in Jhenaidah, Bangladesh.<br>🌱 I’m currently exploring ML/AI, SaaS development, and scalable web architectures.<br>🌱 I’m learning advanced Machine Learning, Deep Learning, and AI-powered application development.<br>👯 I’m open to collaborating on web, SaaS, and ML/AI projects.<br>🤝 I enjoy working on projects that solve real-world problems with technology.<br>✉️ You can reach me at puspitabaidya875@gmail.com</p>
 
-### 📧 [SMTP Email System](https://github.com/ug2102047/smtp-client-server-email-system)
-
-A complete SMTP client-server implementation in Python
-
-- **Tech Stack:** Python, aiosmtpd, Tkinter, smtplib
-- **Features:**
-  - Custom SMTP server on localhost:2525
-  - GUI-based email client
-  - Local mailbox storage system
-  - Attachment support
-  - Inbox viewer functionality
-- **Status:** ✅ Completed
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ug2102047&theme=react-dark&hide_border=true)
-
-## 🎯 Current Focus
-
-```python
-class Student:
-    def __init__(self):
-        self.name = "Puspita Baidya"
-        self.id = "2102047"
-        self.major = "Computer Science & Engineering"
-        self.current_learning = [
-            "Computer Networks",
-            "SMTP Protocol",
-            "Network Programming",
-            "Python Development"
-        ]
-        self.interests = [
-            "Backend Development",
-            "Email Systems",
-            "Networking",
-            "Distributed Systems"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! Feel free to explore my projects.")
-
-me = Student()
-me.say_hi()
-```
-
-## 📫 Connect with Me
+###
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ug2102047)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+## My Skills
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45" alt="laravel logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45" alt="wordpress logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="anaconda logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="tensorflow logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="pytorch logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="45" alt="illustrator logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" alt="photoshop logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" alt="sass logo"  />
   
 </div>
 
----
+###
 
 <div align="center">
   
-  ### Show some ❤️ by starring some of the repositories!
-  
-  ![Visitor Count](https://profile-counter.glitch.me/ug2102047/count.svg)
-  
-  **⭐️ From [ug2102047](https://github.com/ug2102047)**
+  ## A Snake Eating My Contributions  
+  ![snake gif](https://github.com/ug2102047/ug2102047/blob/output/github-snake-dark.svg)
   
 </div>
+
+###
+
+<div align="center">
+  
+## My Stats
+  <img src="https://streak-stats.demolab.com?user=ug2102047&locale=en&mode=daily&theme=react&hide_border=true&border_radius=7&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  
+</div>
+
+###
+
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ug2102047/ug2102047/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ug2102047/ug2102047/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ug2102047/ug2102047/output/pacman-contribution-graph.svg">
+</picture> -->
+
+###
+
+<div align="center">
+
+ ## My Contribution Graph 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ug2102047&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
+</div>
+
+###
+
+<div align="center">
+
+  ## You Can Reach Me Here At
+  
+  <a href="https://www.linkedin.com/in/puspita-baidya-00a957367/" target="_blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="30" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://www.facebook.com/puspita.baidya.2024" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="56" height="30" alt="facebook logo"  />
+  </a>
+  
+  <a href="https://t.me/puspitabaidya" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="56" height="30" alt="telegram logo"  />
+  </a>
+  
+ <!-- <a href="https://x.com/Akash_Paul_141" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="56" height="30" alt="twitter logo"  />
+  </a> -->
+
+  <a href="https://wa.me/+8801601468308" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="56" height="30" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
