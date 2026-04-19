@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=151&section=header&reversal=false&text=Puspita%20Baidya&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"/>
 </div>
 
-###
+### 
 
 <div align="center">
   <img width="1920" src="https://github.com/ug2102047/ug2102047/blob/main/coding.gif?raw=true"  />
